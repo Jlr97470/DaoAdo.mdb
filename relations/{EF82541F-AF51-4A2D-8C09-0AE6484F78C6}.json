@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{EF82541F-AF51-4A2D-8C09-0AE6484F78C6}",
+    "Attributes": 256,
+    "Table": "tbl Recherches",
+    "ForeignTable": "tbl Recherches Villes",
+    "Fields": [
+      {
+        "Name": "Numéro Recherche",
+        "ForeignName": "Numéro Recherche"
+      }
+    ]
+  }
+}

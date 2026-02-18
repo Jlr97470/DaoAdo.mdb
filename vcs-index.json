@@ -1,0 +1,355 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2026-02-18T05:04:24.000Z",
+    "FullExportDate": "2026-02-18T05:04:24.000Z",
+    "OptionsHash": "397c939",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "da8b694",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b8592d6"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "221899c",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8e8725e"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "Modules": {
+        "mod Administration.bas": {
+          "FileHash": "004ae05",
+          "OtherHash": "1b5f171",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a556d87"
+        },
+        "mod ADO Command.bas": {
+          "FileHash": "1bac0fc",
+          "OtherHash": "db26c0d",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5019187"
+        },
+        "mod ADO Listes.bas": {
+          "FileHash": "506a452",
+          "OtherHash": "2498963",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "abbef20"
+        },
+        "mod ADO Recordsets.bas": {
+          "FileHash": "9ac9f46",
+          "OtherHash": "b7e2e00",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2540c00"
+        },
+        "mod DAO Bases.bas": {
+          "FileHash": "276057f",
+          "OtherHash": "697afe4",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "61c28fb"
+        },
+        "mod DAO Listes.bas": {
+          "FileHash": "57401c6",
+          "OtherHash": "75018c1",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "63d152b"
+        },
+        "mod DAO Recordsets.bas": {
+          "FileHash": "d63920c",
+          "OtherHash": "a6c6025",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a0c403e"
+        },
+        "mod DAO TableDefs.bas": {
+          "FileHash": "ff01eb6",
+          "OtherHash": "fd98e46",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e152831"
+        },
+        "mod Trucs et astuces.bas": {
+          "FileHash": "308e929",
+          "OtherHash": "73147f5",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "dc8869d"
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "a89af7e",
+          "ExportDate": "2026-02-18T05:04:24.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6348866"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+          "FileHash": "9102b1b",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "db31eab"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9244188",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "06208be"
+        }
+      },
+      "Queries": {
+        "rqt Biens+Villes.bas": {
+          "FileHash": "004140b",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "469d002"
+        },
+        "rqt Clients à recontacter.bas": {
+          "FileHash": "2065d23",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "bea78ac"
+        },
+        "rqt Clients+Villes.bas": {
+          "FileHash": "79eace1",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5134392"
+        },
+        "rqt Propriétaires+Villes.bas": {
+          "FileHash": "6f66d5c",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7cd2817"
+        },
+        "rqt Recherches+Clients.bas": {
+          "FileHash": "2e0f624",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c58aa05"
+        },
+        "rqt Suppression Villes par département.bas": {
+          "FileHash": "d3f9304",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "15fd61d"
+        },
+        "rqt Test.bas": {
+          "FileHash": "0b88d48",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5d235c6"
+        },
+        "rqt Vidage table Fichiers.bas": {
+          "FileHash": "3911d3a",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "bd1bc00"
+        },
+        "rqt Visites par date décroissante.bas": {
+          "FileHash": "01f6955",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0dd2dff"
+        }
+      },
+      "Relations": {
+        "{047011E8-368D-4944-B313-D419D5D6F1DA}.json": {
+          "FileHash": "a921066",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b927a6c"
+        },
+        "{0940E38E-80E8-4E7F-BAAC-D3BBDD308695}.json": {
+          "FileHash": "7a864d7",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a40268a"
+        },
+        "{55B767F2-FF54-4756-86DA-DC933E6965BC}.json": {
+          "FileHash": "077766a",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1fa2405"
+        },
+        "{958A712C-05A2-4DAB-8AB1-7AC1CA3A7369}.json": {
+          "FileHash": "34aa0ab",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "193993f"
+        },
+        "{B179823E-F3C1-4D25-957C-2FE471ED0E79}.json": {
+          "FileHash": "44a735f",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "00db4a3"
+        },
+        "{DE48B79C-1C3F-4882-9936-9204FD6151D2}.json": {
+          "FileHash": "ea5c5eb",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f1585e5"
+        },
+        "{EF571C80-9547-4590-ADBF-EA1CE0A2E5AB}.json": {
+          "FileHash": "960f955",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "50a93f6"
+        },
+        "{EF82541F-AF51-4A2D-8C09-0AE6484F78C6}.json": {
+          "FileHash": "f8d5ad8",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1bdc97c"
+        }
+      },
+      "Tables": {
+        "tbl Biens - Détail des options.xml": {
+          "FileHash": "5a87160",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8a8fa3d"
+        },
+        "tbl Biens Copie.xml": {
+          "FileHash": "5f27e55",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6b5a9bd"
+        },
+        "tbl Biens.xml": {
+          "FileHash": "d05bb2f",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6abc55b"
+        },
+        "tbl Catégories de biens.xml": {
+          "FileHash": "6d17d0c",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "488080f"
+        },
+        "tbl Catégories d'options.xml": {
+          "FileHash": "120f97c",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "35b0254"
+        },
+        "tbl Clients.xml": {
+          "FileHash": "d0b1715",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "777560a"
+        },
+        "tbl Fichiers.xml": {
+          "FileHash": "f479a1f",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ed3ecd8"
+        },
+        "tbl Photos.xml": {
+          "FileHash": "6afcbe2",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1053163"
+        },
+        "tbl Propriétaires.xml": {
+          "FileHash": "99e9cc5",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "70956df"
+        },
+        "tbl Recherches Villes.xml": {
+          "FileHash": "6f70b4e",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1855b0d"
+        },
+        "tbl Recherches.xml": {
+          "FileHash": "b77d9b8",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6946e8f"
+        },
+        "tbl Types de biens.xml": {
+          "FileHash": "daebb28",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cc14bd6"
+        },
+        "tbl Types de transactions.xml": {
+          "FileHash": "fb45956",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "96d04a6"
+        },
+        "tbl Types d'options.xml": {
+          "FileHash": "3d2f939",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6b7617b"
+        },
+        "tbl Villes Copie.xml": {
+          "FileHash": "b288482",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ed5650a"
+        },
+        "tbl Villes.xml": {
+          "FileHash": "2be06ab",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "735bd88"
+        },
+        "tbl Visites.xml": {
+          "FileHash": "8a1f875",
+          "ExportDate": "2026-02-18T05:04:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "50d44e1"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "03e1e29",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d7f6789"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "975ddc0",
+          "ExportDate": "2026-02-18T05:04:22.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b34d2c8"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{B179823E-F3C1-4D25-957C-2FE471ED0E79}",
+    "Attributes": 256,
+    "Table": "tbl Catégories d'options",
+    "ForeignTable": "tbl Types d'options",
+    "Fields": [
+      {
+        "Name": "Code Catégorie",
+        "ForeignName": "Catégorie d'option"
+      }
+    ]
+  }
+}

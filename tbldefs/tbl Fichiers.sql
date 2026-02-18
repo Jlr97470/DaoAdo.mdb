@@ -1,0 +1,4 @@
+﻿CREATE TABLE [tbl Fichiers] (
+  [Numéro Fichier] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Fichier] VARCHAR (255)
+)

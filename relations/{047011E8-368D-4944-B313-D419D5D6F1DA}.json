@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{047011E8-368D-4944-B313-D419D5D6F1DA}",
+    "Attributes": 256,
+    "Table": "tbl Biens",
+    "ForeignTable": "tbl Photos",
+    "Fields": [
+      {
+        "Name": "Numéro Bien",
+        "ForeignName": "Numéro Bien"
+      }
+    ]
+  }
+}

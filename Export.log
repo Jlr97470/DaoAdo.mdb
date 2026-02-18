@@ -1,0 +1,231 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+DaoAdo.mdb
+VCS Version 4.1.2
+Full Path: D:\MES_SOURCES\ACCESS\EXEMPLES\ACCESS XP\DAOADO\DaoAdo.mdb
+Export Folder: D:\MES_SOURCES\GITHUB\DaoAdo.mdb\
+Performing Full Export
+18/02/2026 09:04:21
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No saved specs found in this database.
+No commandbars found in this database.
+No shared images found in this database.
+No themes found in this database.
+No imex specs found in this database.
+No forms found in this database.
+No macros found in this database.
+No reports found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  DaoAdo.mdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Agence immobilière
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[4]
+-------------------------------------
+Exporting proj properties...  
+  Current Project Properties (Access)
+[1]
+-------------------------------------
+Exporting modules...          
+  mod DAO Recordsets
+  mod ADO Recordsets
+  mod Administration
+  mod Trucs et astuces
+  mod DAO TableDefs
+  mod ADO Listes
+  mod DAO Listes
+  mod DAO Bases
+  mod ADO Command
+[9]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[44]
+-------------------------------------
+Exporting tables...           
+  tbl Biens
+    Sanitized in 0,006 seconds.
+  tbl Biens (SQL)
+  tbl Biens - Détail des options
+    Sanitized in 0,001 seconds.
+  tbl Biens - Détail des options (SQL)
+  tbl Biens Copie
+    Sanitized in 0,004 seconds.
+  tbl Biens Copie (SQL)
+  tbl Catégories de biens
+    Sanitized in 0,001 seconds.
+  tbl Catégories de biens (SQL)
+  tbl Catégories d'options
+    Sanitized in 0,001 seconds.
+  tbl Catégories d'options (SQL)
+  tbl Clients
+    Sanitized in 0,003 seconds.
+  tbl Clients (SQL)
+  tbl Fichiers
+    Sanitized in 0,001 seconds.
+  tbl Fichiers (SQL)
+  tbl Photos
+    Sanitized in 0,001 seconds.
+  tbl Photos (SQL)
+  tbl Propriétaires
+    Sanitized in 0,003 seconds.
+  tbl Propriétaires (SQL)
+  tbl Recherches
+    Sanitized in 0,003 seconds.
+  tbl Recherches (SQL)
+  tbl Recherches Villes
+    Sanitized in 0,002 seconds.
+  tbl Recherches Villes (SQL)
+  tbl Types de biens
+    Sanitized in 0,001 seconds.
+  tbl Types de biens (SQL)
+  tbl Types de transactions
+    Sanitized in 0,001 seconds.
+  tbl Types de transactions (SQL)
+  tbl Types d'options
+    Sanitized in 0,001 seconds.
+  tbl Types d'options (SQL)
+  tbl Villes
+    Sanitized in 0,002 seconds.
+  tbl Villes (SQL)
+  tbl Villes Copie
+    Sanitized in 0,001 seconds.
+  tbl Villes Copie (SQL)
+  tbl Visites
+    Sanitized in 0,002 seconds.
+  tbl Visites (SQL)
+[17]
+-------------------------------------
+Exporting queries...          
+  rqt Biens+Villes
+    Sanitized in 0,005 seconds.
+  rqt Biens+Villes (SQL)
+  rqt Clients à recontacter
+    Sanitized in 0,001 seconds.
+  rqt Clients à recontacter (SQL)
+  rqt Clients+Villes
+    Sanitized in 0,002 seconds.
+  rqt Clients+Villes (SQL)
+  rqt Propriétaires+Villes
+    Sanitized in 0,002 seconds.
+  rqt Propriétaires+Villes (SQL)
+  rqt Recherches+Clients
+    Sanitized in 0,002 seconds.
+  rqt Recherches+Clients (SQL)
+  rqt Suppression Villes par département
+    Sanitized in 0,001 seconds.
+  rqt Suppression Villes par département (SQL)
+  rqt Test
+    Sanitized in 0,000 seconds.
+  rqt Test (SQL)
+  rqt Vidage table Fichiers
+    Sanitized in 0,002 seconds.
+  rqt Vidage table Fichiers (SQL)
+  rqt Visites par date décroissante
+    Sanitized in 0,002 seconds.
+  rqt Visites par date décroissante (SQL)
+[9]
+-------------------------------------
+Exporting relations...        
+  {047011E8-368D-4944-B313-D419D5D6F1DA}
+  {0940E38E-80E8-4E7F-BAAC-D3BBDD308695}
+  {55B767F2-FF54-4756-86DA-DC933E6965BC}
+  {958A712C-05A2-4DAB-8AB1-7AC1CA3A7369}
+  {B179823E-F3C1-4D25-957C-2FE471ED0E79}
+  {DE48B79C-1C3F-4882-9936-9204FD6151D2}
+  {EF571C80-9547-4590-ADBF-EA1CE0A2E5AB}
+  {EF82541F-AF51-4A2D-8C09-0AE6484F78C6}
+[8]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[22]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[3]
+-------------------------------------
+Done. (3,14 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Tables                        17        0,66
+Queries                       9         0,39
+Modules                       9         0,36
+Nav Pane Groups               3         0,26
+DB Properties                 44        0,21
+Relations                     8         0,17
+Doc Properties                22        0,16
+Project                       1         0,10
+VB Project                    1         0,09
+VBE References                4         0,08
+Proj Properties               1         0,07
+DB Connections                0         0,03
+Table Data Macros             0         0,01
+Hidden Attributes             0         0,01
+Shared Images                 0         0,00
+IMEX Specs                    0         0,00
+Table Data                    0         0,00
+Themes                        0         0,00
+CommandBars                   0         0,00
+Forms                         0         0,00
+VBE Forms                     0         0,00
+Reports                       0         0,00
+Saved Specs                   0         0,00
+Macros                        0         0,00
+--------------------------------------------------
+TOTALS:                       119       2,63
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Increment Progress            100       0,86
+Convert to JSON               902       0,40
+Console Updates               4         0,22
+Scan DB Objects               1         0,18
+App.ExportXML()               17        0,17
+Read File Bytes               35        0,09
+Export VBE Module             9         0,08
+App.SaveAsText()              9         0,07
+Format SQL                    9         0,07
+Write File                    76        0,06
+Save Table SQL                17        0,06
+Get File Property Hash        50        0,04
+modFileAccess.VerifyPath      102       0,03
+Get Modified Date             102       0,02
+Delete File                   36        0,02
+Compute SHA256                117       0,02
+Format XML                    17        0,02
+Check for linked table        17        0,02
+Sanitize File                 9         0,02
+Sanitize XML                  17        0,02
+Read File                     35        0,01
+Save Query SQL                9         0,01
+Quick Count Objects           1         0,01
+Quick Count Files             1         0,01
+Get VBA Hash                  9         0,01
+Sanitize VBA Code             9         0,00
+Close Open Objects            1         0,00
+Clear Files by Ext            6         0,00
+modFileAccess.GetUncPath      2         0,00
+--------------------------------------------------
+Other Operations                        0,61
+--------------------------------------------------
+
+

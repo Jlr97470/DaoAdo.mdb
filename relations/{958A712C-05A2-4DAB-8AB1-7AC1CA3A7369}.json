@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{958A712C-05A2-4DAB-8AB1-7AC1CA3A7369}",
+    "Attributes": 256,
+    "Table": "tbl Catégories de biens",
+    "ForeignTable": "tbl Biens",
+    "Fields": [
+      {
+        "Name": "Code Catégorie",
+        "ForeignName": "Code Catégorie"
+      }
+    ]
+  }
+}

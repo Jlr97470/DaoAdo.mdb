@@ -1,0 +1,182 @@
+﻿{
+  "Info": {
+    "Class": "clsDbNavPaneGroup",
+    "Description": "Navigation Pane Custom Groups"
+  },
+  "Items": {
+    "Categories": [
+      {
+        "Name": "Groupes personnalisés",
+        "Flags": 0,
+        "Position": 3,
+        "Groups": [
+          {
+            "Name": "Acheteurs",
+            "Flags": 0,
+            "Position": 4,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Favoris ",
+            "Flags": 0,
+            "Position": 2,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Vendeurs",
+            "Flags": 0,
+            "Position": 3,
+            "Objects": [
+              {
+                "Name": "tbl Biens",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1,
+                "NameInGroup": "tbl Biens"
+              },
+              {
+                "Name": "tbl Biens - Détail des options",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2,
+                "NameInGroup": "tbl Biens - Détail des options"
+              },
+              {
+                "Name": "tbl Catégories de biens",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3,
+                "NameInGroup": "tbl Catégories de biens"
+              },
+              {
+                "Name": "tbl Catégories d'options",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4,
+                "NameInGroup": "tbl Catégories d'options"
+              },
+              {
+                "Name": "tbl Photos",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5,
+                "NameInGroup": "tbl Photos"
+              },
+              {
+                "Name": "tbl Propriétaires",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6,
+                "NameInGroup": "tbl Propriétaires"
+              },
+              {
+                "Name": "tbl Types de biens",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8,
+                "NameInGroup": "tbl Types de biens"
+              },
+              {
+                "Name": "tbl Types de transactions",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9,
+                "NameInGroup": "tbl Types de transactions"
+              },
+              {
+                "Name": "tbl Types d'options",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10,
+                "NameInGroup": "tbl Types d'options"
+              },
+              {
+                "Name": "tbl Villes",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7,
+                "NameInGroup": "tbl Villes"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11,
+                "NameInGroup": "rqt Propriétaires+Villes"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12,
+                "NameInGroup": "frm Biens"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13,
+                "NameInGroup": "frm Biens (Photos)"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14,
+                "NameInGroup": "frm Catégories de biens"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15,
+                "NameInGroup": "frm Propriétaires"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16,
+                "NameInGroup": "frm Types de biens"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17,
+                "NameInGroup": "frm Types de transactions"
+              },
+              {
+                "Name": "rqt Propriétaires+Villes",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18,
+                "NameInGroup": "frm Villes"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+﻿CREATE TABLE [tbl Biens Copie] (
+  [Numéro Bien] VARCHAR (10) CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Numéro Propriétaire] LONG,
+  [Nom Bien] VARCHAR (50),
+  [Adresse 1] VARCHAR (50),
+  [Adresse 2] VARCHAR (50),
+  [Code Ville] LONG,
+  [Code Transaction] VARCHAR (4),
+  [Code Bien] VARCHAR (4),
+  [Code Catégorie] VARCHAR (6),
+  [Pièces] SHORT,
+  [Chambres] SHORT,
+  [Surface] SHORT,
+  [Surface Terrain] LONG,
+  [Descriptif] LONGTEXT,
+  [Montant] CURRENCY,
+  [Statut] VARCHAR (10),
+  [Date de création] DATETIME,
+  [Date de modification] DATETIME
+)

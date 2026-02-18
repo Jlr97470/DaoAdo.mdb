@@ -1,0 +1,20 @@
+﻿CREATE TABLE [tbl Biens] (
+  [Numéro Bien] VARCHAR (10) CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Numéro Propriétaire] LONG,
+  [Nom Bien] VARCHAR (50),
+  [Adresse 1] VARCHAR (50),
+  [Adresse 2] VARCHAR (50),
+  [Code Ville] LONG,
+  [Code Transaction] VARCHAR (4),
+  [Code Bien] VARCHAR (4) CONSTRAINT [{EF571C80-9547-4590-ADBF-EA1CE0A2E5AB}] REFERENCES [tbl Types de biens] ([Code Bien]) ON UPDATE CASCADE ,
+  [Code Catégorie] VARCHAR (6) CONSTRAINT [{958A712C-05A2-4DAB-8AB1-7AC1CA3A7369}] REFERENCES [tbl Catégories de biens] ([Code Catégorie]) ON UPDATE CASCADE ,
+  [Pièces] SHORT,
+  [Chambres] SHORT,
+  [Surface] SHORT,
+  [Surface Terrain] LONG,
+  [Descriptif] LONGTEXT,
+  [Montant] CURRENCY,
+  [Statut] VARCHAR (10),
+  [Date de création] DATETIME,
+  [Date de modification] DATETIME
+)
