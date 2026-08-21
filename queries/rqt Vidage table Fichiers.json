@@ -1,0 +1,48 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "rqt Vidage table Fichiers"
+  },
+  "Items": {
+    "QueryType": 32,
+    "QueryProperties": {
+      "RecordLocks": {
+        "Type": 2,
+        "Value": 2
+      },
+      "FailOnError": {
+        "Type": 1,
+        "Value": false
+      }
+    },
+    "DesignLayout": {
+      "State": 0,
+      "Window": {
+        "left": 18,
+        "top": 38,
+        "right": 994,
+        "bottom": 432
+      },
+      "DesignerPane": {
+        "left": -1,
+        "top": -1,
+        "right": 969,
+        "bottom": 180
+      },
+      "GridLeft": 0,
+      "GridTop": 0,
+      "ColumnsShown": 771,
+      "Tables": [
+        {
+          "Name": "tbl Fichiers",
+          "Alias": "",
+          "Left": 48,
+          "Top": 7,
+          "Right": 168,
+          "Bottom": 117,
+          "ScrollTop": 0
+        }
+      ]
+    }
+  }
+}

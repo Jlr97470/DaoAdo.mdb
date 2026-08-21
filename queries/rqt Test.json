@@ -1,0 +1,9 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "rqt Test"
+  },
+  "Items": {
+    "QueryType": 0
+  }
+}

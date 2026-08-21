@@ -1,0 +1,65 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "rqt Biens+Villes"
+  },
+  "Items": {
+    "QueryType": 0,
+    "DesignLayout": {
+      "State": 0,
+      "Window": {
+        "left": 18,
+        "top": 104,
+        "right": 1002,
+        "bottom": 498
+      },
+      "DesignerPane": {
+        "left": -1,
+        "top": -1,
+        "right": 1017,
+        "bottom": 180
+      },
+      "GridLeft": 6,
+      "GridTop": 0,
+      "ColumnsShown": 539,
+      "Tables": [
+        {
+          "Name": "tbl Propriétaires",
+          "Alias": "",
+          "Left": 439,
+          "Top": 7,
+          "Right": 559,
+          "Bottom": 155,
+          "ScrollTop": 6
+        },
+        {
+          "Name": "tbl Villes",
+          "Alias": "",
+          "Left": 216,
+          "Top": 1,
+          "Right": 336,
+          "Bottom": 149,
+          "ScrollTop": 0
+        },
+        {
+          "Name": "tbl Biens",
+          "Alias": "",
+          "Left": 48,
+          "Top": 1,
+          "Right": 168,
+          "Bottom": 149,
+          "ScrollTop": 0
+        },
+        {
+          "Name": "tbl Villes_1",
+          "Alias": "",
+          "Left": 607,
+          "Top": 7,
+          "Right": 727,
+          "Bottom": 155,
+          "ScrollTop": 0
+        }
+      ]
+    }
+  }
+}

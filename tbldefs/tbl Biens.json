@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Biens Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Description des biens (maisons, appartements, terrains) mis en vente. Cette description est complétée par des options, table tbl Biens - Détail des options"
+      }
+    }
+  }
+}

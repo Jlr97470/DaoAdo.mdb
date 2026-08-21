@@ -6,62 +6,40 @@
   "Items": {
     "Databases": {
       "SummaryInfo": {
-        "Author": "Hervé Inisan",
-        "Comments": "Location/vente de biens immobiliers et rapprochement entre propriétaires / vendeurs et clients / acheteurs.",
-        "Company": "Micro Application / Self-Access.com",
-        "Keywords": "vente location client propriétaire maison appartement",
-        "Subject": "Vente/location de maisons, appartements, terrains",
-        "Title": "Agence Immobilière"
-      }
-    },
-    "Tables": {
-      "tbl Biens": {
-        "Description": "Description des biens (maisons, appartements, terrains) mis en vente. Cette description est complétée par des options, table tbl Biens - Détail des options"
+        "Author": {
+          "Type": 10,
+          "Value": "Hervé Inisan"
+        },
+        "Comments": {
+          "Type": 10,
+          "Value": "Location/vente de biens immobiliers et rapprochement entre propriétaires / vendeurs et clients / acheteurs."
+        },
+        "Company": {
+          "Type": 10,
+          "Value": "Micro Application / Self-Access.com"
+        },
+        "Keywords": {
+          "Type": 10,
+          "Value": "vente location client propriétaire maison appartement"
+        },
+        "Subject": {
+          "Type": 10,
+          "Value": "Vente/location de maisons, appartements, terrains"
+        },
+        "Title": {
+          "Type": 10,
+          "Value": "Agence Immobilière"
+        }
       },
-      "tbl Biens - Détail des options": {
-        "Description": "Liste des options (cheminée, piscine...) pour chaque bien"
-      },
-      "tbl Biens Copie": {
-        "Description": "Description des biens (maisons, appartements, terrains) mis en vente. Cette description est complétée par des options, table tbl Biens - Détail des options"
-      },
-      "tbl Catégories de biens": {
-        "Description": "Classification des biens (T1, T2, T3...)"
-      },
-      "tbl Catégories d'options": {
-        "Description": "Catégories permettant de regrouper les options par thèmes (chauffage, dépendances...)"
-      },
-      "tbl Clients": {
-        "Description": "Liste des clients"
-      },
-      "tbl Photos": {
-        "Description": "Photos associés aux biens en vente"
-      },
-      "tbl Propriétaires": {
-        "Description": "Liste des propriétaires"
-      },
-      "tbl Recherches": {
-        "Description": "Description des recherches effectuées par les clients"
-      },
-      "tbl Recherches Villes": {
-        "Description": "Villes dans lesquelles les clients recherchent des biens par préférence"
-      },
-      "tbl Types de biens": {
-        "Description": "Types de biens (Maisons, appartements...)"
-      },
-      "tbl Types de transactions": {
-        "Description": "Types de transactions (Location, Vente)"
-      },
-      "tbl Types d'options": {
-        "Description": "Nom des options possibles pour caractériser un bien (Piscine, Cheminée...)"
-      },
-      "tbl Villes": {
-        "Description": "Liste des villes"
-      },
-      "tbl Villes Copie": {
-        "Description": "Liste des villes"
-      },
-      "tbl Visites": {
-        "Description": "Détail des visites effectuées par les différents clients et concernant différents biens"
+      "UserDefined": {
+        "Agence": {
+          "Type": 10,
+          "Value": "Kmz Immobilier"
+        },
+        "ReplicateProject": {
+          "Type": 1,
+          "Value": true
+        }
       }
     }
   }

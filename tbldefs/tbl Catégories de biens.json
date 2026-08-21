@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Catégories de biens Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Classification des biens (T1, T2, T3...)"
+      }
+    }
+  }
+}

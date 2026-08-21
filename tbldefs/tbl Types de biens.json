@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Types de biens Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Types de biens (Maisons, appartements...)"
+      }
+    }
+  }
+}

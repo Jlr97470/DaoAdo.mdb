@@ -1,0 +1,47 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "rqt Propriétaires+Villes"
+  },
+  "Items": {
+    "QueryType": 0,
+    "DesignLayout": {
+      "State": 0,
+      "Window": {
+        "left": 18,
+        "top": 40,
+        "right": 1002,
+        "bottom": 434
+      },
+      "DesignerPane": {
+        "left": -1,
+        "top": -1,
+        "right": 973,
+        "bottom": 180
+      },
+      "GridLeft": 0,
+      "GridTop": 0,
+      "ColumnsShown": 539,
+      "Tables": [
+        {
+          "Name": "tbl Propriétaires",
+          "Alias": "",
+          "Left": 48,
+          "Top": 7,
+          "Right": 168,
+          "Bottom": 155,
+          "ScrollTop": 0
+        },
+        {
+          "Name": "tbl Villes",
+          "Alias": "",
+          "Left": 292,
+          "Top": 6,
+          "Right": 412,
+          "Bottom": 154,
+          "ScrollTop": 0
+        }
+      ]
+    }
+  }
+}

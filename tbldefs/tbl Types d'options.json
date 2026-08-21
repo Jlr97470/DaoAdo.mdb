@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Types d'options Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Nom des options possibles pour caractériser un bien (Piscine, Cheminée...)"
+      }
+    }
+  }
+}

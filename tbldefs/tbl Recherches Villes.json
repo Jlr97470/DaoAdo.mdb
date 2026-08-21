@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Recherches Villes Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Villes dans lesquelles les clients recherchent des biens par préférence"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "rqt Clients+Villes"
+  },
+  "Items": {
+    "QueryType": 0,
+    "DesignLayout": {
+      "State": 0,
+      "Window": {
+        "left": 450,
+        "top": 36,
+        "right": 1005,
+        "bottom": 532
+      },
+      "DesignerPane": {
+        "left": -1,
+        "top": -1,
+        "right": 548,
+        "bottom": 188
+      },
+      "GridLeft": 0,
+      "GridTop": 0,
+      "ColumnsShown": 539,
+      "Tables": [
+        {
+          "Name": "tbl Villes",
+          "Alias": "",
+          "Left": 233,
+          "Top": 7,
+          "Right": 353,
+          "Bottom": 155,
+          "ScrollTop": 0
+        },
+        {
+          "Name": "tbl Clients",
+          "Alias": "",
+          "Left": 48,
+          "Top": 7,
+          "Right": 168,
+          "Bottom": 155,
+          "ScrollTop": 0
+        }
+      ]
+    }
+  }
+}

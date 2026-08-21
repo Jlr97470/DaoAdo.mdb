@@ -1,0 +1,14 @@
+﻿{
+  "Info": {
+    "Class": "",
+    "Description": "tbl Catégories d'options Metadata"
+  },
+  "Items": {
+    "Properties": {
+      "Description": {
+        "Type": 10,
+        "Value": "Catégories permettant de regrouper les options par thèmes (chauffage, dépendances...)"
+      }
+    }
+  }
+}
