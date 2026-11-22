@@ -1,6 +1,6 @@
 ﻿{
   "Info": {
-    "Class": "",
+    "Class": "clsDbTableDef",
     "Description": "tbl Catégories d'options Metadata"
   },
   "Items": {

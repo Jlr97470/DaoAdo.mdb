@@ -1,6 +1,6 @@
 ﻿{
   "Info": {
-    "Class": "",
+    "Class": "clsDbTableDef",
     "Description": "tbl Photos Metadata"
   },
   "Items": {

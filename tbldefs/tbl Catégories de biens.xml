@@ -13,10 +13,10 @@
       <xsd:appinfo>
         <od:index index-name="Code Catégorie" index-key="Code_x0020_Catégorie " primary="no" unique="no" clustered="no" order="asc"></od:index>
         <od:index index-name="PrimaryKey" index-key="Code_x0020_Catégorie " primary="yes" unique="yes" clustered="no" order="asc"></od:index>
-        <od:tableProperty name="Orientation" type="2" value="0"></od:tableProperty>
-        <od:tableProperty name="OrderByOn" type="1" value="0"></od:tableProperty>
         <od:tableProperty name="DefaultView" type="2" value="2"></od:tableProperty>
         <od:tableProperty name="Description" type="10" value="Classification des biens (T1, T2, T3...)"></od:tableProperty>
+        <od:tableProperty name="OrderByOn" type="1" value="0"></od:tableProperty>
+        <od:tableProperty name="Orientation" type="2" value="0"></od:tableProperty>
       </xsd:appinfo>
     </xsd:annotation>
     <xsd:complexType>
@@ -24,15 +24,15 @@
         <xsd:element name="Code_x0020_Catégorie" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
           <xsd:annotation>
             <xsd:appinfo>
-              <od:fieldProperty name="ColumnWidth" type="3" value="1812"></od:fieldProperty>
-              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
-              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
-              <od:fieldProperty name="Description" type="10" value="Code Catégorie (T1, T2, T3...)"></od:fieldProperty>
-              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
               <od:fieldProperty name="AllowZeroLength" type="1" value="1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnWidth" type="3" value="1812"></od:fieldProperty>
+              <od:fieldProperty name="Description" type="10" value="Code Catégorie (T1, T2, T3...)"></od:fieldProperty>
               <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
               <od:fieldProperty name="IMEMode" type="2" value="0"></od:fieldProperty>
               <od:fieldProperty name="IMESentenceMode" type="2" value="3"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
               <od:fieldProperty name="UnicodeCompression" type="1" value="1"></od:fieldProperty>
             </xsd:appinfo>
           </xsd:annotation>
@@ -45,15 +45,15 @@
         <xsd:element name="Intitulé_x0020_Catégorie" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
           <xsd:annotation>
             <xsd:appinfo>
-              <od:fieldProperty name="ColumnWidth" type="3" value="2916"></od:fieldProperty>
-              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
-              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
-              <od:fieldProperty name="Description" type="10" value="Intitulé en clair de la catégorie"></od:fieldProperty>
-              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
               <od:fieldProperty name="AllowZeroLength" type="1" value="1"></od:fieldProperty>
+              <od:fieldProperty name="ColumnHidden" type="1" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnOrder" type="3" value="0"></od:fieldProperty>
+              <od:fieldProperty name="ColumnWidth" type="3" value="2916"></od:fieldProperty>
+              <od:fieldProperty name="Description" type="10" value="Intitulé en clair de la catégorie"></od:fieldProperty>
               <od:fieldProperty name="DisplayControl" type="3" value="109"></od:fieldProperty>
               <od:fieldProperty name="IMEMode" type="2" value="0"></od:fieldProperty>
               <od:fieldProperty name="IMESentenceMode" type="2" value="3"></od:fieldProperty>
+              <od:fieldProperty name="Required" type="1" value="0"></od:fieldProperty>
               <od:fieldProperty name="UnicodeCompression" type="1" value="1"></od:fieldProperty>
             </xsd:appinfo>
           </xsd:annotation>
